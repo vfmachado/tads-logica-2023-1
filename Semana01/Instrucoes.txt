@@ -35,6 +35,27 @@ cd P1   abre a pasta P1
 cd ..   volta uma pasta
 
 
+INSTALAR JAVA
+https://www.oracle.com/br/java/technologies/downloads/
+ou 
+https://openjdk.org/
+
+INSTALAR VS CODE
+https://code.visualstudio.com/
+
+COMANDOS JAVA
+
+** ATENÇÃ0 ** ESSES COMANDOS TEM QUE OBRIGATORIAMENTE FUNCIONAR!!!
+javac --version -> mostra a versão do compilador do java configurado no seu sistema
+java --version -> mostra a versão do java instalado no seu sistema
+
+javac NomeDoArquivo.java  -> vai gerar um NomeDoArquivo.class que é o executável JAVA do seu código fonte
+java NomeDoArquivo      -> vai executar no terminal o seu programa
+
+TELEFONE DRICA - 53 9 8118 1020
+
+
+
 
 
 
