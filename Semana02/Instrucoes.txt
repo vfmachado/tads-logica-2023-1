@@ -1,0 +1,34 @@
+JDK
+    JAVA DEVELOPMENT KIT
+
+JRE
+    JAVA RUNTIME ENVIROMENT
+
+public class NomeDoArquivo {
+
+}
+
+main    => MÉTODO MAIN - PRINCIPAL - PONTO DE ENTRADA DO MEU ALGORITMO, É ONDE COMEÇA A EXECUTAR O CONJUNTO DE INSTRUÇÕES.
+
+
+Scanner
+    import java.util.Scanner;
+    => trazendo para dentro do nosso código um conjunto de ferramentas que já estão prontas no JDK
+
+VARIAVEL
+
+TIPOS DE VARIAVEL
+    int
+    float
+    double
+    boolean
+    byte
+    short
+    long
+    char
+    String
+    
+CONSTANTES
+
+POR QUE CONSTANTES?
+
