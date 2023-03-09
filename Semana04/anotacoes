@@ -1,0 +1,51 @@
+
+if (condicao 1) {
+    // bloco A
+} else if (condicao 2) {
+    // bloco B
+} else {
+    // bloco C
+}
+
+
+if (cond 1) {
+    // bloco a
+}
+
+if (cond 2) {
+    // bloco b
+}
+
+>   >=    <     <=      ==     !=
+
+int x = 5, y = 10;
+boolean cond = y >= x;  // cond = true
+if (cond) {
+
+}
+
+if (y >= x) {
+
+}
+
+
+NOT => !
+boolean eraTrue = true;
+!eraTrue => false
+
+String senhaSalva = "1234";
+String senhaInserida = "2134";
+
+boolean acertou = senhaSalva == senhaInserida;
+
+if (!acertou) {
+    "SENHA INCORRETA"
+} else {
+    "SEGUE O BAILE"
+}
+
+
+boolean naoacertou = senhaSalva != senhaInserida
+if (!naoacertou) {
+    "DEU CERTO!"
+}

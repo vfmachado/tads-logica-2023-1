@@ -1,0 +1,38 @@
+/*
+    Verificar se o ano inserido na data de nascimento é um ano valido.
+    Considere que uma pessoa tem que ter no minimo 0 anos e no maximo, 130.
+*/
+// O INPUT DO USUÁRIO SERÁ O ANO DE NASCIMENTO.
+
+/*
+// em pt-br
+// idade maior ou igual a zero EEEEEE idade menor ou igual a 130
+if (IDADE >= 0) {
+    if (IDADE <= 130) {
+
+    }
+}
+
+// ao inves de escrever dois ifs
+// juntar condicoes através do &&
+if (IDADE >= 0 && IDADE <= 130) {
+
+}
+
+
+//idade menor que 18 ou maior que 60
+if (idade < 18) {
+    // faco A
+} 
+
+if (idade > 60) {
+    // faco A
+}
+
+//  A PALAVRA "ou" É SUBSTITUÍDA POR || (DOIS PIPES)
+if (idade < 18 ||  idade > 60) {
+    faco A
+} 
+
+
+*/
