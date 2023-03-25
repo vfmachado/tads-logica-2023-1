@@ -9,7 +9,7 @@ public class Fatorial {
         int numero, fatorial;
         System.out.println("INFORME UM NUMERO");
         numero = in.nextInt();
-
+        
         if (numero >= 1 && numero <= 8) {
             System.out.println("NUMERO VALIDADO COM SUCESSO... CALCULANDO O FATORIAL...");
             /*
